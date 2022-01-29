@@ -8,11 +8,11 @@ A Void World for Minecraft Bedrock
 ## How To Create
 1. Create New World
    - World Type: Flat
-1. Save And Quit after world generates
+1. Save and Quit after world generates
 1. Download and Install [Universal Minecraft Editor](https://www.universalminecrafteditor.com/)
 1. Select "Windows 10", then your save
 1. Select "World Settings"
-1. Scroll down to FlatWorldLayers and remove the bimoes so that it looks like `{"biome_id":1,"block_layers":[],"encoding_version":6,"structure_options":null,"world_version":"version.post_1_18"}
+1. Scroll down to ”FlatWorldLayers” and remove the biomes so that it looks like `{"biome_id":1,"block_layers":[],"encoding_version":6,"structure_options":null,"world_version":"version.post_1_18"}
 `
 1. Save and exit the editor
 1. Open the save folder (in `com.mojang/minecraftWorlds`)
