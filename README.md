@@ -1,5 +1,6 @@
 # void-world-bedrock
 A Void World for Minecraft Bedrock
+![void-world-bedrock](/void-world-bedrock.png)
 
 ## How To Install
 1. Donwload the [.mcworld](https://github.com/kirbycope/void-world-bedrock/raw/main/void-world-bedrock.mcworld) file
