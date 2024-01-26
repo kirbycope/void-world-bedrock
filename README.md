@@ -1,15 +1,16 @@
-# void-world-bedrock
-A Void World for Minecraft Bedrock
 ![void-world-bedrock](/void-world-bedrock.png)
 
+# void-world-bedrock
+A Void World for Minecraft Bedrock
+
 ## How To Install
-1. Donwload the [.mcworld](https://github.com/kirbycope/void-world-bedrock/raw/main/void-world-bedrock.mcworld) file
-1. Double-click to install and run
+1. Download the [.mcworld](https://github.com/kirbycope/void-world-bedrock/raw/main/void-world-bedrock.mcworld) file
+1. Double-click to install
 
 ## How To Create
 1. Create New World
    - World Type: Flat
-1. Save and Quit after world generates
+1. Save and Quit after the world generates
 1. Download and Install [Universal Minecraft Editor](https://www.universalminecrafteditor.com/)
 1. Select "Windows 10", then your save
 1. Select "World Settings"
@@ -23,5 +24,5 @@ A Void World for Minecraft Bedrock
 1. Enter the command `/setblock 0 63 0 grass`
 1. Exit the world
 1. Select the edit icon, scroll down, and export
-1. Re-Edit the save in Unversal Minecraft Editor to your liking (difficulty, cheats off, etc).
+1. Re-Edit the save in Universal Minecraft Editor to your liking (difficulty, cheats off, etc).
 1. (Back in Minecraft) Select the edit icon, scroll down, and export
